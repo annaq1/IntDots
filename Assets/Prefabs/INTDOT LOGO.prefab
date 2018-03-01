@@ -1401,7 +1401,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4946860588227712}
   - component: {fileID: 212191657986345926}
-  - component: {fileID: 114093027128686840}
   m_Layer: 0
   m_Name: LightGreen Dot (5)
   m_TagString: Untagged
@@ -3845,7 +3844,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1676179532419214}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.1, y: 2.6, z: 0}
+  m_LocalPosition: {x: -1.6, y: 2.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4550852471636658}
@@ -5535,17 +5534,6 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1106674967134516}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f390fb4a14c2ef74bb390b2809b78196, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &114093027128686840
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1550119061953404}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f390fb4a14c2ef74bb390b2809b78196, type: 3}
